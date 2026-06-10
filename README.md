@@ -7,4 +7,10 @@ It includes several tools such as a calculator, a to-do list, a file manager, an
 
 You can compile the project using g++ with the following command:
 
+For Windows :
+
 g++ main.cpp file.cpp chrono.cpp calculator.cpp todolist.cpp -o ToolSoftware.exe
+
+For Linux :
+
+g++ main.cpp file.cpp chrono.cpp calculator.cpp todolist.cpp -o ToolSoftware
